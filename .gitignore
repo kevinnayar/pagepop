@@ -1,6 +1,7 @@
 .idea
 .vscode
-
+.env
+.env.*
 node_modules
-
+packages/*/node_modules
 dist
